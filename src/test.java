@@ -27,6 +27,7 @@ public class test {
             System.err.println(imageFile.getName() +" result："+  result);
             System.err.println(imageFile.getName() +" result："+  result2);
             System.err.println(imageFile.getName() +" result："+  result2);
+            System.err.println(imageFile.getName() +" result："+  result2);
         } catch (TesseractException e) {
             System.err.println(e.getMessage());
         }
